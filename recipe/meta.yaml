@@ -30,14 +30,14 @@ test:
     - pip check
 
 about:
-  home: https://///github.com/mbr/asciitree
+  home: https://github.com/mbr/asciitree
   license: MIT
   license_family: MIT
   license_file: LICENSE
   summary: Draws ASCII trees.
   description: Draws ASCII trees.
-  dev_url: https://///github.com/mbr/asciitree
-  doc_url: https://///github.com/mbr/asciitree
+  dev_url: https://github.com/mbr/asciitree
+  doc_url: https://github.com/mbr/asciitree
 
 extra:
   recipe-maintainers:
